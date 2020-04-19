@@ -1,0 +1,34 @@
+.container{
+    margin-bottom: 100px;
+    
+}
+p{
+    color:lightgrey;
+}
+.top-banner{
+    background-image:url(biography-bg.png);
+    background-repeat:no-repeat;
+    height: 650px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+}
+.carousel-control-next-icon {
+    background-image: none;
+}
+.carousel-item{
+    padding: 20px 35px;
+}
+.carousel-indicators li {
+    height: 4px;
+    background-image: linear-gradient(to right, rgb(236, 203, 94) 0%, #FF136F 100%);
+    border-radius: 3px;
+
+}
+.carousel-indicators{
+    bottom: -120px;
+}
