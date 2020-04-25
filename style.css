@@ -32,3 +32,76 @@ p{
 .carousel-indicators{
     bottom: -120px;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background: white;
+    border: none;
+}
+.bestcatagories{
+    text-align: center;
+    margin-bottom: 60px;
+    width: 100%;
+}
+hr {
+    border:none;
+    background-image: linear-gradient(to right, rgb(236, 203, 94) 0%, #FF136F 100%);
+    margin: 16px auto; 
+    width:100px;
+    color:gold ;
+    border-radius: 3px;
+    padding: 3px;
+    
+    }
+    .cardalter{
+        margin-bottom: 30px;
+        height: 160px;
+        width: 150px;
+        border-radius: 5px 5px 25px 5px;
+    }
+    .cardalter img{
+        width: 40%;
+    }
+    .makeitsmaller{
+        width: 50%;
+        margin-top: 20px;
+        
+    
+    }
+    
+    .card h6{
+       text-align: center;
+       padding-top: 0px;
+       margin-top: 10px;
+    
+    }
+    .first-row{
+        height: 160px;
+        box-shadow: 1px 1px 10px 1px lightgrey;
+        margin-top: 100px;
+        width: 150px;
+        border-radius: 5px 5px 5px 25px;
+    
+    }
+    #firsttag{
+        text-align: center;
+        margin: 10px;
+    }
+    
+    .col-md-3{
+        max-width: 100%;
+        padding: 20px 25px;
+    }
+    .row-middle{
+        width: 85%;
+    }
+    .col-md-6 img{
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+    }
